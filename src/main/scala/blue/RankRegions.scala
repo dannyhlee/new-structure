@@ -68,5 +68,4 @@ object RankRegions {
     f.refresh()
     f.saveas(s"${filename}.png")
   }
-
 }
